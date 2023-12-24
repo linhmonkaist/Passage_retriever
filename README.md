@@ -12,7 +12,7 @@ In this research, we implement three hybrid methods.
    - Simple fine-tuning
    - Fine-tuning with BM25 scores injection
 
-Comprehensive description of each of the methods and results thereof are presented in our [paper](https://drive.google.com/file/d/1v850Jm4VApfRUBLHZZJXvW7nGoqhzN_N/view?usp=sharing).
+Comprehensive description of each of the methods and results thereof are presented in our [paper](https://drive.google.com/file/d/1MG5lgEXaPG-2ZvSZrDpCjrI7fGljnY2b/view?usp=drive_link).
 
 ### Directory Structure
 
